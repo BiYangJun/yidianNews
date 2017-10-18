@@ -70,6 +70,7 @@ import axios from "axios"
         width: 100%;
         height: 159px;
         background: url(http://staticimg.yidianzixun.com/modules/build/images/celebrate_pc-5dfb94f3.png) repeat-x 0 0;
+        margin-bottom:20px;
     }
     .Header-top{
         background: rgba(0,0,0,.1);
