@@ -14,7 +14,7 @@ export default new Router({
     },
     {
        path: '/yaowen',
-      name: 'main',
+      name: 'yaowen',
       component:YaowenComponent 
     },
     {
